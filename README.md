@@ -1,3 +1,29 @@
+# zvec
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A lightweight, lightning-fast, in-process vector database
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+轻量极速的进程内向量数据库。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="right">
   English | <a href="./README_CN.md">中文</a>
 </p>
